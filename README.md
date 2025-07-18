@@ -5,20 +5,17 @@
 ---
 
 ## 📁 项目结构（按章节组织）
-
-MyDataStructureLibrary/
-├── LinearTable/ # 线性表
-├── StackQueue/ # 栈与队列
-├── String/ # 字符串
-├── ArrayMatrix/ # 数组与矩阵
-├── GeneralList/ # 广义表
-├── Tree/ # 树与二叉树
-├── Graph/ # 图
-├── Search/ # 查找
-├── Sort/ # 排序
-├── main.cpp # 全局测试入口
-
-yaml
+- MyDataStructureLibrary/
+  - LinearTable/      线性表相关代码
+  - StackQueue/       栈与队列
+  - String/           字符串处理
+  - ArrayMatrix/      数组与矩阵
+  - GeneralList/      广义表
+  - Tree/             树与二叉树
+  - Graph/            图论结构
+  - Search/           查找结构
+  - Sort/             排序算法
+  - main.cpp          全局测试入口
 
 ---
 
